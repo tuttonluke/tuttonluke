@@ -4,9 +4,9 @@
 
 :microscope: [MSci in Natural Sciences](https://www.undergraduate.study.cam.ac.uk/courses/natural-sciences): I love Chemistry, Biology, and Earth Sciences.
 
-:pill: Keen to join these interests :arrow_up::arrow_up: in healthcare / pharmaceutical research.
+:mag: Keen to join these interests :arrow_up::arrow_up: technology technology for scientific research.
 
-:seedling: I'm currently learning Apache Spark, Tableau, and C++.
+:seedling: I'm currently learning Tableau and C++.
 
 
 
