@@ -8,7 +8,7 @@
 
 :mag: Keen to join these interests :arrow_up::arrow_up: in technology for scientific research.
 
-:seedling: I'm currently learning the Unity game engine and C++.
+:seedling: I'm currently learning C++.
 
 
 
